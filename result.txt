@@ -1,0 +1,38 @@
+Operación: Suma
+Datos de entrada:
+1 2 
+Resultado:
+2 4 
+----------------------------------
+Operación: Suma
+Datos de entrada:
+1 2 
+3 4 
+Resultado:
+5 5 
+5 5 
+----------------------------------
+Operación: Resta
+Datos de entrada:
+1 2 
+3 4 
+Resultado:
+-3 -1 
+1 3 
+----------------------------------
+Operación: Multiplicacion
+Datos de entrada:
+1 2 
+3 4 
+Resultado:
+8 5 
+20 13 
+----------------------------------
+Operación: Division
+Datos de entrada:
+1 2 
+3 4 
+Resultado:
+0 0 
+1 4 
+----------------------------------
